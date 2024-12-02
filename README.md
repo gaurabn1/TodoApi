@@ -1,6 +1,6 @@
 # Todo API
 
-A simple RESTful Todo API built using Django, Django REST Framework, and PostgreSQL. The API allows users to manage tasks with features like authentication, CRUD operations for todos, and token-based authentication via JWT (JSON Web Token).
+A simple RESTful Todo API built using Django, Django REST Framework, and SQLite3. The API allows users to manage tasks with features like authentication, CRUD operations for todos, and token-based authentication via JWT (JSON Web Token).
 
 ## Features
 
