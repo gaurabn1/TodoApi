@@ -42,8 +42,9 @@ SECRET_KEY=your-secret-key
 EMAIL_HOST_USER=your_gmail
 EMAIL_HOST_PASSWORD=your_password
 ```
-### 5. Run Database Migrations
+### 5. Make and Run Migrations
 ```bash
+python manage.py makemigrations
 python manage.py migrate
 ```
 ### 6. Create Superuser
